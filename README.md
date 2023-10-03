@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about LLMs and transformers
 - 📫 How to reach me: adityapatilsy@gmail.com
 - Technologies: 
-🌐Web Development: NodeJS, ExpressJS, ReactJS
-🛢Database Management Systems: MongoDB, MySQL, PostgreSQL
-📈 Data Analytics: Matplotlib, Seaborn, Pandas, Numpy
-🦾 Machine Learning: Scikit-learn, Keras, TensorFlow
+🌐Web Development: NodeJS, ExpressJS, ReactJS <br>
+🛢Database Management Systems: MongoDB, MySQL, PostgreSQL <br>
+📈 Data Analytics: Matplotlib, Seaborn, Pandas, Numpy <br>
+🦾 Machine Learning: Scikit-learn, Keras, TensorFlow <br>
