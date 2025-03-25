@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aditya Patil
 
 🎓 MS in Statistics (Computational Finance) @ Purdue University  
-📍 West Lafayette, IN
+📍 West Lafayette, IN <br />
 📧 [Email](mailto:patil219@purdue.edu)|🌐 [GitHub](https://github.com/Ronin2810)|👔 [LinkedIn](https://www.linkedin.com/in/aditya-patil-047283220/)
 
 ---
