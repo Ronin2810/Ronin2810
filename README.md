@@ -35,17 +35,6 @@ I'm a data-driven problem solver passionate about bridging statistics, computer 
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| **📉 Options Pricing & Arbitrage Tool** | Visualizes Black-Scholes deviations, identifies arbitrage, and builds actionable analytics | Python, Plotly, Pandas |
-| **🧠 Multi-label Tweet Classifier** | Built with RNN, CNN, BERT; optimized with RoBERTa achieving F1: 0.65 | TensorFlow, PyTorch |
-| **📊 Streamlit ETL Dashboard** | Automated reporting platform for ABET data with 30% time reduction | Python, Streamlit |
-| **📈 GPU-Accelerated Monte Carlo Sim** | Jetson NX benchmarking & optimization for financial simulations | Python, CUDA |
-
----
-
 ## 📄 Publications
 
 - **VaxVerdict:** RoBERTa-based multilabel tweet classifier — *FIRE 2024, Goa*  
